@@ -1,7 +1,7 @@
-import pandas as pd                 # data handling
-import numpy as np                  # numeric operations
-import matplotlib.pyplot as plt     # plotting
-import seaborn as sns               # nicer statistical plots
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 sns.set_style("darkgrid")           # global plot style
 plt.rcParams["figure.figsize"] = (8, 4)   # default figure size
